@@ -71,4 +71,4 @@ Bun.serve({
     },
 });
 
-console.log("WebSocket server running on port 8081");
+console.log("WebSocket server running on port 8083");
