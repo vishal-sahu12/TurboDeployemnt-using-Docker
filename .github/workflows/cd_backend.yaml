@@ -25,5 +25,5 @@ jobs:
           context: .
           file: ./Dockerfiles/Dockerfile.backend
           push: true
-          tags: todo-backend/latest
+          tags: iotlab6sem/todo-backend:${{ github.sha }}
 
